@@ -7,7 +7,8 @@ This is a mavenized version of the OpenOrd layout plugin for Gephi. You can use 
 - Checkout the repository
 - Run `mvn install`
 - Add the dependency to your pom.xml:
-  ```xml
+
+```xml
 <dependency>
     <groupId>org.gephi</groupId>
     <artifactId>openord-layout-plugin</artifactId>
